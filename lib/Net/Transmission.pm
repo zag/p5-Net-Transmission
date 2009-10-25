@@ -23,7 +23,7 @@ Transmission is a cross-platform BitTorrent client.
 
 =head1 DESCRIPTION
 
-Net::RTorrent - short way to create tools for rtorrent.
+Net::Transmission - Perl interface to Transmission.
 
 =cut
 
