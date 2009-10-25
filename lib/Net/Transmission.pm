@@ -28,7 +28,7 @@ Net::Transmission - Perl interface to Transmission.
 =cut
 
 
-our $VERSION = '0.01_01';
+our $VERSION = '0.01_02';
 my $attrs = {
     _cli       => undef,
 };
