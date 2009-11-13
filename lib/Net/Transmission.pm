@@ -28,7 +28,7 @@ Net::Transmission - Perl interface to Transmission.
 =cut
 
 
-our $VERSION = '0.01_02';
+our $VERSION = '0.01_03';
 my $attrs = {
     _cli       => undef,
 };
@@ -41,7 +41,7 @@ for my $key ( keys %$attrs ) {
         return $self->{$key};
       }
 }
-
+1;
 =head1 METHODS
 
 =cut
